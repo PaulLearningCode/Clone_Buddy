@@ -4,7 +4,7 @@ Input your source and destination group number and then toggle the preset pools 
 
 
 ## Import instructions:
-Paste Clone Buddy.xml file into the following directory...
+Download 'Clone Buddy.xml' and then copy & paste into the following directory...
 - gma3_library
 - Datapools
 - Plugins
